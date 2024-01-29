@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Indefinitely writes I am alive! to the file /tmp/my_process
-# In between every message, the program should pause for 2 seconds
+# Indefinitely writes I am alive! to /tmp/my_process
+# Between every message the program pauses for 2 seconds
 
 file="/tmp/my_process"
 
